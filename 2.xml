@@ -1,0 +1,46 @@
+<VAST version="3.0">
+<Ad id="646">
+<InLine>
+<AdSystem>Adikteev</AdSystem>
+<AdTitle>
+<![CDATA[ SC_UACTV_00023_2508_Timer_var1_Video_Animated_RealMoney_Blkbox_USD_30sec_1920x1080 ]]>
+</AdTitle>
+<Impression>
+<![CDATA[ https://impressions.onelink.me/nYTQ?pid=trademob_int&af_siteid=AJxF6R77a9M6CaTvK&c=PPYA_I_UA_Adikteev_US_CPM_CTV_241201_ROI_com.papaya.solitairecash&af_c_id=PPYA_I_UA_Adikteev_US_CPM_CTV_241201_ROI_com.papaya.solitairecash&af_ad=SC_UACTV_00023_2508_Timer_var1_Video_Animated_RealMoney_Blkbox_USD_30sec_1920x1080&af_ad_id=SC_UACTV_00023_2508_Timer_var1_Video_Animated_RealMoney_Blkbox_USD_30sec_1920x1080&af_viewthrough_lookback=24h&clickid=1760526831723865.4226496199.105.adikteev1&af_xplatform=true&af_xplatform_vt_lookback=24h&af_ip=76.37.155.14&af_ua=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.34 Safari/537.36 DMOST/1.0.1 (; LGE; webOSTV; WEBOS4.1.0 04.10.40; W4_lm18a;) ]]>
+</Impression>
+<Impression>
+<![CDATA[ https://pixel-impressions.ctv.adikteev.io/impression_pixel?line_item_id=641&user_id_type=IP_ADDRESS&user_id_value=76.37.155.14&auction_id=1760526831723865.4226496199.105.adikteev1&app_name=Scripps News&app_id=d0bd7c9dcf1d44d32d8ddfb57d19eebd&device_model=Generic WebOS TV&platform_os=webOS ]]>
+</Impression>
+<Creatives>
+<Creative>
+<Linear>
+<Duration>00:00:30</Duration>
+<MediaFiles>
+<MediaFile delivery="progressive" width="1920" height="1080" type="video/mp4" bitrate="400">
+<![CDATA[ https://cdn-ctv.adikteev.com/SC_UACTV_00023_2508_Timer_var1_Video_Animated_RealMoney_Blkbox_USD_30sec_1920x1080_LOW.mp4 ]]>
+</MediaFile>
+<MediaFile delivery="progressive" width="1920" height="1080" type="video/mp4" bitrate="1000">
+<![CDATA[ https://cdn-ctv.adikteev.com/SC_UACTV_00023_2508_Timer_var1_Video_Animated_RealMoney_Blkbox_USD_30sec_1920x1080_MEDLO.mp4 ]]>
+</MediaFile>
+<MediaFile delivery="progressive" width="1920" height="1080" type="video/mp4" bitrate="3500">
+<![CDATA[ https://cdn-ctv.adikteev.com/SC_UACTV_00023_2508_Timer_var1_Video_Animated_RealMoney_Blkbox_USD_30sec_1920x1080_MEDHI.mp4 ]]>
+</MediaFile>
+<MediaFile delivery="progressive" width="1920" height="1080" type="video/mp4" bitrate="20000">
+<![CDATA[ https://cdn-ctv.adikteev.com/SC_UACTV_00023_2508_Timer_var1_Video_Animated_RealMoney_Blkbox_USD_30sec_1920x1080_MEDHI.mp4 ]]>
+</MediaFile>
+</MediaFiles>
+<VideoClicks>
+<ClickThrough>
+<![CDATA[ https://www.solitairecash.com/ ]]>
+</ClickThrough>
+</VideoClicks>
+</Linear>
+</Creative>
+<Creative>
+<CompanionAds/>
+</Creative>
+</Creatives>
+<Extensions/>
+</InLine>
+</Ad>
+</VAST>
