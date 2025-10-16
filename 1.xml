@@ -1,0 +1,124 @@
+
+<VAST version='3.0'>
+	<Ad id='646'>
+		<Wrapper>
+			<AdSystem>Beeswax</AdSystem>
+			<VASTAdTagURI>
+				<![CDATA[https://raw.githubusercontent.com/dd8319/dump/refs/heads/main/2.xml]]>
+			</VASTAdTagURI>
+			<Impression>
+			<!-- FOUND -->
+				<![CDATA[https://tv.rlcdn.com/api/ctvid?pid=712686&ctvid=49105fad-6098-53b1-a8ad-81c8e571b9e3]]>
+			</Impression>
+			<Impression>
+			<!-- FOUND -->
+				<![CDATA[https://t9913.houseofpubs.live/imp?bidid=S6Dv2x2whc-1760526831975&s=4475&d=3293&ccpac=%5BCCPA_CONSENT%5D&coppa=%5BCOPPA%5D&eint2=1&price=2.036]]>
+			</Impression>
+			<Impression><!-- FOUND -->
+				<![CDATA[https://s.xlgmedia.com/2/941689/analytics.gif?pd=avt&ap=com.newsy&sr=&pp=4475&ti=S6Dv2x2whc-17605268319751760526831975369083&de=3&ui=49105fad-6098-53b1-a8ad-81c8e571b9e3&pi=cr3293.ea7f97a8&bt=programmatic&ac=3293&cr=3293%2F4ADPadikteev1-646&md=2&dt=9416891726681120459000&gt=US&c1=3293]]>
+			</Impression>
+			<Impression>
+			<!-- FOUND -->
+				<![CDATA[https://n35.adprime.com/?c=e&m=b&key=bba4cb2d7cb7c522816f77364e896045&cp=2.23781]]>
+			</Impression>
+			<Impression>
+			<!-- FOUND -->
+				<![CDATA[https://us-east-1.event.prod.bidr.io/log/imp/ap?sie=ChEIx-2s3w8QaRjZyrDDiaaQAxISCglhZGlrdGVldjEQAhgJIIEFGgJhcCDcFygBOihtaWQuNDkxMDVGQUQtNjA5OC01M0IxLUE4QUQtODFDOEU1NzFCOUUzYAF4hgWAAQqSAQJhcKgBAMIBANoBDjIwMjUxMDE0MjIwMDAw4gFEChIIAxABEAIQAxAEEAUQBhAHEAgSBAgIEAESBAgCEAESBAgHEAESBAgFEAESBAgGEAESBAgDEAESBAgEEAESBAgBEAHqARZpcC46OmZmZmY6NzYuMzcuMTU1LjE0-gEVDYyifz8SDv8AAAAAAAAAAAAAAAAAqgIFEIDG_RQ=&wp=2.83088&fie=INwXSg8YAEIHQmVlc3dheEgBUAFqCwgBEAAYACCAxv0UcNwXigEQCgUI3BcQAREAAAAAAADwP_IBAhgA&]]>
+			</Impression>
+			<Impression>
+				<![CDATA[https://impressions.onelink.me/nYTQ?pid=trademob_int&af_siteid=AJxF6R77a9M6CaTvK&c=PPYA_I_UA_Adikteev_US_CPM_CTV_241201_ROI_com.papaya.solitairecash&af_c_id=PPYA_I_UA_Adikteev_US_CPM_CTV_241201_ROI_com.papaya.solitairecash&af_ad=SC_UACTV_00023_2508_Timer_var1_Video_Animated_RealMoney_Blkbox_USD_30sec_1920x1080&af_ad_id=SC_UACTV_00023_2508_Timer_var1_Video_Animated_RealMoney_Blkbox_USD_30sec_1920x1080&af_viewthrough_lookback=24h&clickid=1760526831723865.4226496199.105.adikteev1&af_xplatform=true&af_xplatform_vt_lookback=24h&af_ip=76.37.155.14&af_ua=Mozilla%2f5.0%20%28Web0S%3b%20Linux%2fSmartTV%29%20AppleWebKit%2f537.36%20%28KHTML%2c%20like%20Gecko%29%20Chrome%2f53.0.2785.34%20Safari%2f537.36%20DMOST%2f1.0.1%20%28%3b%20LGE%3b%20webOSTV%3b%20WEBOS4.1.0%2004.10.40%3b%20W4_lm18a%3b%29]]>
+			</Impression>
+			<Impression>
+			<!-- FOUND -->
+				<![CDATA[https://pixel-impressions.ctv.adikteev.io/impression_pixel?line_item_id=641&user_id_type=IP_ADDRESS&user_id_value=76.37.155.14&auction_id=1760526831723865.4226496199.105.adikteev1&app_name=Scripps%20News&app_id=d0bd7c9dcf1d44d32d8ddfb57d19eebd&device_model=Generic%20WebOS%20TV&platform_os=webOS]]>
+			</Impression>
+			<Creatives>
+				<Creative>
+					<Linear>
+						<TrackingEvents>
+							<Tracking event="midpoint">
+								<![CDATA[https://n35.adprime.com/?c=e&m=vev&key=bba4cb2d7cb7c522816f77364e896045&e=midpoint]]>
+							</Tracking>
+							<Tracking event="firstQuartile">
+								<![CDATA[https://n35.adprime.com/?c=e&m=vev&key=bba4cb2d7cb7c522816f77364e896045&e=firstQuartile]]>
+							</Tracking>
+							<Tracking event="thirdQuartile">
+								<![CDATA[https://n35.adprime.com/?c=e&m=vev&key=bba4cb2d7cb7c522816f77364e896045&e=thirdQuartile]]>
+							</Tracking>
+							<Tracking event="complete">
+								<![CDATA[https://n35.adprime.com/?c=e&m=vev&key=bba4cb2d7cb7c522816f77364e896045&e=complete]]>
+							</Tracking>
+							<Tracking event='start'>
+								<![CDATA[https://us-east-1.event.prod.bidr.io/log/act/ap?ai=ChEIx-2s3w8QaRjZyrDDiaaQAxISCglhZGlrdGVldjEQAhgJIIEFGgJhcCABKihtaWQuNDkxMDVGQUQtNjA5OC01M0IxLUE4QUQtODFDOEU1NzFCOUUzQIYFSApSAmFwYAB6RAoSCAMQARACEAMQBBAFEAYQBxAIEgQIBRABEgQIAhABEgQIBxABEgQICBABEgQIARABEgQIAxABEgQIBBABEgQIBhAB&]]>
+							</Tracking>
+							<Tracking event='firstQuartile'>
+								<![CDATA[https://us-east-1.event.prod.bidr.io/log/act/ap?ai=ChEIx-2s3w8QaRjZyrDDiaaQAxISCglhZGlrdGVldjEQAhgJIIEFGgJhcCACKihtaWQuNDkxMDVGQUQtNjA5OC01M0IxLUE4QUQtODFDOEU1NzFCOUUzQIYFSApSAmFwYAB6RAoSCAMQARACEAMQBBAFEAYQBxAIEgQIBRABEgQIAhABEgQIBxABEgQICBABEgQIARABEgQIAxABEgQIBBABEgQIBhAB&]]>
+							</Tracking>
+							<Tracking event='midpoint'>
+								<![CDATA[https://us-east-1.event.prod.bidr.io/log/act/ap?ai=ChEIx-2s3w8QaRjZyrDDiaaQAxISCglhZGlrdGVldjEQAhgJIIEFGgJhcCADKihtaWQuNDkxMDVGQUQtNjA5OC01M0IxLUE4QUQtODFDOEU1NzFCOUUzQIYFSApSAmFwYAB6RAoSCAMQARACEAMQBBAFEAYQBxAIEgQIBRABEgQIAhABEgQIBxABEgQICBABEgQIARABEgQIAxABEgQIBBABEgQIBhAB&]]>
+							</Tracking>
+							<Tracking event='thirdQuartile'>
+								<![CDATA[https://us-east-1.event.prod.bidr.io/log/act/ap?ai=ChEIx-2s3w8QaRjZyrDDiaaQAxISCglhZGlrdGVldjEQAhgJIIEFGgJhcCAEKihtaWQuNDkxMDVGQUQtNjA5OC01M0IxLUE4QUQtODFDOEU1NzFCOUUzQIYFSApSAmFwYAB6RAoSCAMQARACEAMQBBAFEAYQBxAIEgQIBRABEgQIAhABEgQIBxABEgQICBABEgQIARABEgQIAxABEgQIBBABEgQIBhAB&]]>
+							</Tracking>
+							<Tracking event='complete'>
+								<![CDATA[https://us-east-1.event.prod.bidr.io/log/act/ap?ai=ChEIx-2s3w8QaRjZyrDDiaaQAxISCglhZGlrdGVldjEQAhgJIIEFGgJhcCAFKihtaWQuNDkxMDVGQUQtNjA5OC01M0IxLUE4QUQtODFDOEU1NzFCOUUzQIYFSApSAmFwYAB6RAoSCAMQARACEAMQBBAFEAYQBxAIEgQIBRABEgQIAhABEgQIBxABEgQICBABEgQIARABEgQIAxABEgQIBBABEgQIBhAB&]]>
+							</Tracking>
+							<Tracking event='mute'>
+								<![CDATA[https://us-east-1.event.prod.bidr.io/log/act/ap?ai=ChEIx-2s3w8QaRjZyrDDiaaQAxISCglhZGlrdGVldjEQAhgJIIEFGgJhcCAHKihtaWQuNDkxMDVGQUQtNjA5OC01M0IxLUE4QUQtODFDOEU1NzFCOUUzQIYFSApSAmFwYAB6RAoSCAMQARACEAMQBBAFEAYQBxAIEgQIBRABEgQIAhABEgQIBxABEgQICBABEgQIARABEgQIAxABEgQIBBABEgQIBhAB&]]>
+							</Tracking>
+							<Tracking event='unmute'>
+								<![CDATA[https://us-east-1.event.prod.bidr.io/log/act/ap?ai=ChEIx-2s3w8QaRjZyrDDiaaQAxISCglhZGlrdGVldjEQAhgJIIEFGgJhcCAIKihtaWQuNDkxMDVGQUQtNjA5OC01M0IxLUE4QUQtODFDOEU1NzFCOUUzQIYFSApSAmFwYAB6RAoSCAMQARACEAMQBBAFEAYQBxAIEgQIBRABEgQIAhABEgQIBxABEgQICBABEgQIARABEgQIAxABEgQIBBABEgQIBhAB&]]>
+							</Tracking>
+							<Tracking event='pause'>
+								<![CDATA[https://us-east-1.event.prod.bidr.io/log/act/ap?ai=ChEIx-2s3w8QaRjZyrDDiaaQAxISCglhZGlrdGVldjEQAhgJIIEFGgJhcCAJKihtaWQuNDkxMDVGQUQtNjA5OC01M0IxLUE4QUQtODFDOEU1NzFCOUUzQIYFSApSAmFwYAB6RAoSCAMQARACEAMQBBAFEAYQBxAIEgQIBRABEgQIAhABEgQIBxABEgQICBABEgQIARABEgQIAxABEgQIBBABEgQIBhAB&]]>
+							</Tracking>
+							<Tracking event='resume'>
+								<![CDATA[https://us-east-1.event.prod.bidr.io/log/act/ap?ai=ChEIx-2s3w8QaRjZyrDDiaaQAxISCglhZGlrdGVldjEQAhgJIIEFGgJhcCAKKihtaWQuNDkxMDVGQUQtNjA5OC01M0IxLUE4QUQtODFDOEU1NzFCOUUzQIYFSApSAmFwYAB6RAoSCAMQARACEAMQBBAFEAYQBxAIEgQIBRABEgQIAhABEgQIBxABEgQICBABEgQIARABEgQIAxABEgQIBBABEgQIBhAB&]]>
+							</Tracking>
+							<Tracking event='fullscreen'>
+								<![CDATA[https://us-east-1.event.prod.bidr.io/log/act/ap?ai=ChEIx-2s3w8QaRjZyrDDiaaQAxISCglhZGlrdGVldjEQAhgJIIEFGgJhcCALKihtaWQuNDkxMDVGQUQtNjA5OC01M0IxLUE4QUQtODFDOEU1NzFCOUUzQIYFSApSAmFwYAB6RAoSCAMQARACEAMQBBAFEAYQBxAIEgQIBRABEgQIAhABEgQIBxABEgQICBABEgQIARABEgQIAxABEgQIBBABEgQIBhAB&]]>
+							</Tracking>
+							<Tracking event='close'>
+								<![CDATA[https://us-east-1.event.prod.bidr.io/log/act/ap?ai=ChEIx-2s3w8QaRjZyrDDiaaQAxISCglhZGlrdGVldjEQAhgJIIEFGgJhcCAMKihtaWQuNDkxMDVGQUQtNjA5OC01M0IxLUE4QUQtODFDOEU1NzFCOUUzQIYFSApSAmFwYAB6RAoSCAMQARACEAMQBBAFEAYQBxAIEgQIBRABEgQIAhABEgQIBxABEgQICBABEgQIARABEgQIAxABEgQIBBABEgQIBhAB&]]>
+							</Tracking>
+							<Tracking event="start">
+							<!-- FOUND -->
+								<![CDATA[https://t9913.houseofpubs.live/vast_event?bidid=S6Dv2x2whc-1760526831975&e=ex-start]]>
+							</Tracking>
+							<Tracking event="firstQuartile">
+								<![CDATA[https://t9913.houseofpubs.live/vast_event?bidid=S6Dv2x2whc-1760526831975&e=ex-firstQuartile]]>
+							</Tracking>
+							<Tracking event="midpoint">
+								<![CDATA[https://t9913.houseofpubs.live/vast_event?bidid=S6Dv2x2whc-1760526831975&e=ex-midpoint]]>
+							</Tracking>
+							<Tracking event="thirdQuartile">
+								<![CDATA[https://t9913.houseofpubs.live/vast_event?bidid=S6Dv2x2whc-1760526831975&e=ex-thirdQuartile]]>
+							</Tracking>
+							<Tracking event="complete">
+								<![CDATA[https://t9913.houseofpubs.live/vast_event?bidid=S6Dv2x2whc-1760526831975&e=	qQ]]>
+							</Tracking>
+							<Tracking event="skip">
+								<![CDATA[https://t9913.houseofpubs.live/vast_event?bidid=S6Dv2x2whc-1760526831975&e=ex-skip]]>
+							</Tracking>
+						</TrackingEvents>
+						<VideoClicks>
+							<ClickTracking>
+								<![CDATA[https://n35.adprime.com/?c=e&m=ck&key=bba4cb2d7cb7c522816f77364e896045]]>
+							</ClickTracking>
+							<ClickTracking>
+								<![CDATA[https://us-east-1.event.prod.bidr.io/log/clk/ap?ai=ChEIx-2s3w8QaRjZyrDDiaaQAxISCglhZGlrdGVldjEQAhgJIIEFGgJhcCIobWlkLjQ5MTA1RkFELTYwOTgtNTNCMS1BOEFELTgxQzhFNTcxQjlFMziGBUAKSAFSAmFwYAB6RAoSCAMQARACEAMQBBAFEAYQBxAIEgQIBxABEgQIBRABEgQIAhABEgQIBhABEgQIAxABEgQICBABEgQIBBABEgQIARAB&audit_flag_wp=2.83088]]>
+							</ClickTracking>
+							<ClickTracking>
+								<![CDATA[https://t9913.houseofpubs.live/vast_event?bidid=S6Dv2x2whc-1760526831975&e=ex-click]]>
+							</ClickTracking>
+						</VideoClicks>
+					</Linear>
+				</Creative>
+			</Creatives>
+			<Extensions></Extensions>
+			<Error>
+				<![CDATA[https://n35.adprime.com/?c=e&m=nurl&auctionId=bba4cb2d7cb7c522816f77364e896045&price=2.23781]]>
+			</Error>
+		</Wrapper>
+	</Ad>
+</VAST>
